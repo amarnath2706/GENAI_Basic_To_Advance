@@ -5,8 +5,7 @@ list_of_files = [
     "QAWithPDF/__init__.py",
     "QAWithPDF/data_ingestion.py",
     "QAWithPDF/embedding.py",
-    "QAWithPDF/model_api.py"
-    "Experiments/experiment.ipynb",
+    "QAWithPDF/model_api.py",
     "StreamlitApp.py",
     "logger.py",
     "exception.py"
