@@ -7,6 +7,13 @@ Create a new environment
 Select the interpreter 
 ![image](https://github.com/user-attachments/assets/1a490888-95e6-433d-a972-3270ddcbeaa3)
 
+Create a new file called ‘requirements.txt’, '.env'
+provide your google gemini key in the  ‘.env’ file.
+Create a new folder name called notebook and inside that create a file called ‘experiment.ipynb’
+
+Install the packages:
+
+
 
 
 
