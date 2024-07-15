@@ -54,6 +54,12 @@ Data ingestion.py
 ![image](https://github.com/user-attachments/assets/cafd5b22-f891-4113-a445-1456dccca1c1)
 
 Embedding.py
+![image](https://github.com/user-attachments/assets/0c64ac43-53bc-4c2b-80ed-328bcc3339f6)
+![image](https://github.com/user-attachments/assets/95abb5d0-4631-4060-ba04-cfb230b12480)
+
+Setup.py
+
+
 
 
 
