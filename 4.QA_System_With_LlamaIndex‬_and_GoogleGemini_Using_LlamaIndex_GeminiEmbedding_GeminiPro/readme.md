@@ -64,6 +64,21 @@ Streamlit.py
 ![image](https://github.com/user-attachments/assets/bd24d8ee-13ba-4a4b-81db-fab05cb5ef5c)
 ![image](https://github.com/user-attachments/assets/e4c2749f-fc9e-4aed-aef1-edd0518ab439)
 
+Run the stramlit file
+![image](https://github.com/user-attachments/assets/a2a6c865-b388-414f-a83e-02ef76079b2f)
+![image](https://github.com/user-attachments/assets/720fb531-fb5e-4568-a059-c52db597eb78)
+![image](https://github.com/user-attachments/assets/4ccff299-bfbc-4ebb-b44d-73e82267d10a)
+Here I uploaded the document
+
+![image](https://github.com/user-attachments/assets/88daac85-e2c6-4d84-bf44-15bf8a31251b)
+
+We got the result 
+![image](https://github.com/user-attachments/assets/d42f4d23-ec01-486c-b908-7b8f36ff9596)
+
+
+
+
+
 
 
 
