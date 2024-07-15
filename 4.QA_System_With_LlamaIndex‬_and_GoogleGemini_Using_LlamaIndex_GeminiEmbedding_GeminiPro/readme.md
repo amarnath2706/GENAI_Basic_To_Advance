@@ -58,6 +58,13 @@ Embedding.py
 ![image](https://github.com/user-attachments/assets/95abb5d0-4631-4060-ba04-cfb230b12480)
 
 Setup.py
+![image](https://github.com/user-attachments/assets/a1810fc5-c3d6-48be-ae23-4a400dbc4518)
+
+Streamlit.py
+![image](https://github.com/user-attachments/assets/bd24d8ee-13ba-4a4b-81db-fab05cb5ef5c)
+![image](https://github.com/user-attachments/assets/e4c2749f-fc9e-4aed-aef1-edd0518ab439)
+
+
 
 
 
