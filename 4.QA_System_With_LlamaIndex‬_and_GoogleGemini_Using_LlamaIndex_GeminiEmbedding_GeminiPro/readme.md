@@ -49,6 +49,12 @@ exception.py
 ![image](https://github.com/user-attachments/assets/2c6b11fc-4bec-4e49-81a9-b6bfcf71c51b)
 ![image](https://github.com/user-attachments/assets/0961e57e-43f1-4196-8ee3-f73e8d5f2604)
 
+Data ingestion.py
+![image](https://github.com/user-attachments/assets/7c051565-fe34-4c35-be3d-577d4b31f77e)
+![image](https://github.com/user-attachments/assets/cafd5b22-f891-4113-a445-1456dccca1c1)
+
+Embedding.py
+
 
 
 
