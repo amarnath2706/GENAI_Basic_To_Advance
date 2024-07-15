@@ -9,9 +9,18 @@ Select the interpreter
 
 Create a new file called ‘requirements.txt’, '.env'
 provide your google gemini key in the  ‘.env’ file.
+requirements.txt file
+![image](https://github.com/user-attachments/assets/c65e6686-0814-40b9-9038-5c8daae1d889)
+
 Create a new folder name called notebook and inside that create a file called ‘experiment.ipynb’
 
 Install the packages:
+
+command : pip install -r requirements.txt
+
+
+
+
 
 
 
