@@ -31,6 +31,22 @@ command : pip install -r requirements.txt
 
 Notebook experiment is done and we got the output and now we are going to covert this in to modular coding and making as an application
 
+Create a new file called ‘template.py’ - to create necessary files and folders for our project automatically by running the template.py file
+![image](https://github.com/user-attachments/assets/dd0d148b-8aa7-4883-b496-5e4ffcaaf50f)
+![image](https://github.com/user-attachments/assets/4fb458bb-35ab-4c2f-9ca9-2f129ed5d8c1)
+
+Run the template.py file
+![image](https://github.com/user-attachments/assets/45617c2e-436d-4633-a399-51c1b6b9399e)
+Files and folders are created
+![image](https://github.com/user-attachments/assets/30ea9554-35e9-4e5b-b2e3-713bff0db671)
+
+
+
+
+
+
+
+
 
 
 
