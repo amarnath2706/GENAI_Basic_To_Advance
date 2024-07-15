@@ -29,6 +29,10 @@ command : pip install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/732eda6b-bf78-4642-82d2-3f6f82f64f76)
 ![image](https://github.com/user-attachments/assets/49b3e5e5-77b4-48fd-b407-58b42f0504ac)
 
+Notebook experiment is done and we got the output and now we are going to covert this in to modular coding and making as an application
+
+
+
 
 
 
