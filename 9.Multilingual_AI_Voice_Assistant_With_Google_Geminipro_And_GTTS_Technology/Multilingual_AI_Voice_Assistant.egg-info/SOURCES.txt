@@ -1,0 +1,7 @@
+setup.py
+Multilingual_AI_Voice_Assistant.egg-info/PKG-INFO
+Multilingual_AI_Voice_Assistant.egg-info/SOURCES.txt
+Multilingual_AI_Voice_Assistant.egg-info/dependency_links.txt
+Multilingual_AI_Voice_Assistant.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
