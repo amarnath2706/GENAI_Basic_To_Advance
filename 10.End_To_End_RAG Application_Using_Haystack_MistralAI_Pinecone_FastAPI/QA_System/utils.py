@@ -1,4 +1,5 @@
 from haystack_integrations.document_stores.pinecone import PineconeDocumentStore
+#from haystack_integrations.document_stores.pinecone import PineconeDocumentStore
 import os
 from dotenv import load_dotenv
 

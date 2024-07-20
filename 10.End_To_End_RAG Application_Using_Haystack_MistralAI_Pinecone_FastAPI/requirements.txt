@@ -1,4 +1,5 @@
 pinecone-haystack
+#haystack-ai\
 haystack-ai
 fastapi
 uvicorn
@@ -6,5 +7,6 @@ python-dotenv
 pathlib
 pypdf
 sentence-transformers
-
+#huggingface-hub
+python-multipart
 -e .
