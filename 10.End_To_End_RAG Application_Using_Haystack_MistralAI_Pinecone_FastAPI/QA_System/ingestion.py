@@ -35,7 +35,7 @@ def ingest(document_store):
 	indexing.connect("embedder", "writer")
 
 	#stroing the data as a embedding in the database
-	indexing.run({"converter": {"sources": [Path("C:\\Users\\Asus-2020\\OneDrive\\Desktop\\ULM.pdf")]}})
+	indexing.run({"converter": {"sources": [Path("C:\\Users\\Asus-2020\\Downloads\\ULM.pdf")]}})
  
  
 if __name__ == "__main__":
